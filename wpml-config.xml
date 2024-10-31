@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpml-config>
+    <admin-texts>
+        <key name="woocommerce_oceanklarna_settings">
+            <key name="title_text"/>
+            <key name="description"/>
+        </key>
+    </admin-texts>
+</wpml-config>
